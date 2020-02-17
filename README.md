@@ -1,5 +1,19 @@
 This project aims at developing a weather app using the api's from open weather map.
 
+Following is the stack:
+ReactJs,
+Redux Saga,
+Express,
+React Bootstrap,
+Fetch,
+Axios,
+
+API's:
+Open weather map
+
+Icons:
+Icons8
+
 ## Available Scripts
 
 In the project directory, you can run:
