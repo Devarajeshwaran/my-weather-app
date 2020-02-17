@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project aims at developing a weather app using the api's from open weather map.
 
 ## Available Scripts
 
