@@ -6,7 +6,7 @@ Redux Saga,
 Express,
 React Bootstrap,
 Fetch,
-Axios,
+Axios
 
 API's:
 Open weather map
