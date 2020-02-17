@@ -10,6 +10,8 @@ Axios
 
 API's:
 Open weather map
+Requires user specific key for the API's to work. Please visit https://openweathermap.org/ to get a key.
+Replace the key in src -> saga -> keys
 
 Icons:
 Icons8
